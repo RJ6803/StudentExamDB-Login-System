@@ -1,0 +1,1 @@
+INSERT operation: Reg No: 90211342, Name: rohit, marks1: 89, marks2: 98, marks3: 89, marks4: 98, marks5: 89, marks6: 98 at Wed May 21 20:41:31 IST 2025
